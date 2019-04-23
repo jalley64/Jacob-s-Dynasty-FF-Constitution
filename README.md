@@ -1,4 +1,4 @@
-# (League Name Here) Dynasty League Constitution #
+# Jiggajake's Dynasty League Constitution #
 ## Table of Contents
 
 - [League Governence](#section-i---league-governence)
