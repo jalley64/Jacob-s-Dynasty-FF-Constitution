@@ -32,22 +32,22 @@ __Jacob Alley__
 <br>
 
 ### Commissioner Site Powers ###
-The commissioner has the ability to (in appropriate situations) edit lineups (either current or past), add/drop players, push/undo trades, and edit game scores. Additionally the commissioner can pause/resume the draft and set/remove draft picks for teams.
+- The commissioner has the ability to (in appropriate situations) edit lineups (either current or past), add/drop players, push/undo trades, and edit game scores. Additionally the commissioner can pause/resume the draft and set/remove draft picks for teams. 
 <br>
 ### Co-Commissioner Appointment ###
-The Commissioner can nominate up to two Co-Commissioners who will then require a majority vote by the rest of the league to be appointed.
+- The Commissioner can nominate up to two Co-Commissioners who will then require a majority vote by the rest of the league to be appointed.
 <br>
 ### Dispute Arbitration ###
-The commissioner is the final authority on all league matters, excluding disputes with a clear conflict of interest. In situations where a league vote is put forth and the outcome is a tie the commissioner will always have the tiebreaking vote. When an issue arrises where a clear conflict of interest is apparant the matter will be handled by the co-commissioners. If they disagree on what action should be taken (or there is no co-commish) the matter will be put to a league vote (the vote will exclude anyone with a conflict of interest).
+- The commissioner is the final authority on all league matters, excluding disputes with a clear conflict of interest. In situations where a league vote is put forth and the outcome is a tie the commissioner will always have the tiebreaking vote. When an issue arrises where a clear conflict of interest is apparant the matter will be handled by the co-commissioners. If they disagree on what action should be taken (or there is no co-commish) the matter will be put to a league vote (the vote will exclude anyone with a conflict of interest).
 <br>
 ### Rule Changes ###
 #### Nomination ####
-In order to nominate a rule change, simply propose it in the rule change channel. If it gets endorsed (by adding an emoji showing your affirmation) by 3 more league members it will be on the docket for the end of the year summit.
+- In order to nominate a rule change, simply propose it through the appropriate channel. If it gets endorsed (by adding an emoji showing your affirmation) by 3 more league members it will be on the docket for the end of the year summit.
 #### Passing A Rule ####
-At the season end summit, we will vote on any nominated proposals. The vote must pass with a super majority, needing at least 60% to pass the vote (typically in a 12 person league this will mean we need 8 votes to pass a new rule).
+- At the season end summit, we will vote on any nominated proposals. The commissioner's vote counts as 1.5 votes (essentially a tiebreaker). Majority is needed for a vote to pass.
 <br>
 ### League Summit ### 
-The League Summit will take place every year a month before the draft. It will all take place online over the course of a weekend. The nomination channel of the discord will be muted three days before the summit begins so make sure to have your nominations in well in advance. The commisioner will put forth each nominated matter to a vote and make the necessary ammendments to the constitution.
+- The League Summit will take place every year a month before the draft. It will all take place online over the course of a weekend. The nomination channel of the discord will be muted three days before the summit begins so make sure to have your nominations in well in advance. The commisioner will put forth each nominated matter to a vote and make the necessary ammendments to the constitution.
 <br>
 ### Collusion ###
 **Collusion will not be tolerated. A trade will be vetoed if there is evident collusion and the guilty teams will be removed from the league and forfeit any dues paid. Colluders will not be given infractions, and will be immediately removed.**
@@ -70,8 +70,15 @@ The League Summit will take place every year a month before the draft. It will a
 - If you are not willing to play the final season, you forfeit the money that you have paid.
 - In drastic circumstances the commissioner may consider refunding the buy-in however these instances will be very rare and far from the expectation.
 
+### Missing Teams ###
+- The unfortunate reality is that not everyone will be able to play in this league forever. This means teams will need to be replaced. In the event that the team being replaced left on ill terms (ie they did not give fair notice), then their buy-in will be used to incentive a new owner to take over. 
+- In many instances where owners quit and leave, it is due to the fact that the team is in miserable shape. Often times, even with the financial incentive, it can be tough to find a replacement owner. In the sake of keeping together the league, the commissioner reserves the right to offer compensatory picks at the end of each round of the draft. 
+- In the event of not having 12 teams by the rookie draft, we will postpone the draft by a month, each month until the season starts.
+- If an owner is still not found, the league will vote on whether to shrink in size (down to 10) or disburse.
+- If multiple owners leave at the same time, both of their players will be merged into a player pool, and new owners will have a draft to select their teams. 
+
 ### Penalties ###
-If a team does not pay their dues by the designated date they are not eligible to participate in the draft (startup or rookie) it will be up to the commissioners discretion on whether or not to replace them.
+If a team does not pay their dues by the designated date they are not eligible to participate in the draft (startup or rookie) it will be up to the commissioner's discretion on whether or not to replace them.
 
 <br><br>
 
@@ -121,7 +128,7 @@ If a team does not pay their dues by the designated date they are not eligible t
 
 
 ### Trades ###
-- Trades will be processed right away, if collusion file a report with the commissioner.
+- Trades will be processed right away, if collusion is suspected file a report with the commissioner.
 - During the offseason trading is still allowed.
 - Trade deadline begins as soon as the first playoff game starts.
 - Draft picks up to 2 years in the future are tradable.
@@ -160,8 +167,6 @@ __Any undrafted rookie will be treated as a common FA. If they are unavailable i
 
 ### Regular Season Schedule ###
 - The regular season lasts from week 1 to week 13.
-- Teams will play their first and last two matches against the other teams in their division.
-- The rest of the matches will be randomly determined at the beginning of the season.
 - Playoffs begin week 14 with the championship game occuring week 16.
 
 <br><br>
@@ -171,6 +176,7 @@ __Any undrafted rookie will be treated as a common FA. If they are unavailable i
 ### Championship Bracket ###
 - The two teams with the best regular season records will be assigned to the top two seeds, and receive a first round bye.
 - The next four teams will be assigned their playoff seeding spot based on regular season record.
+- The seedings will reseed so that the number 1 seed gets the best possible semi-final matchup.
 
 ### Consolation Bracket ###
 - Seeding will be determined by end of regular season standing for the 6 teams not in the Championship Bracket.
@@ -209,3 +215,11 @@ __Any undrafted rookie will be treated as a common FA. If they are unavailable i
       </tr>
 </table>
 
+## __Section XI - Misc__ ##
+- In the case that there is a discrepancy between the rules on the site and the rules stated here, please inform the commissioner immediately. If for some reason the commissioner is unavailable, the rules on the site take precedence. 
+- Smack talk is a great part of the game. However please do not be hateful or bully other members. 
+- Treat eachother with respect. 
+- That means responding to trade offers, but it also means fucking off and not sending them if the person says they aren't interested in trading. 
+
+
+## __Section XII - Ammendments__ ##
