@@ -59,7 +59,7 @@ __Jacob Alley__
 <br>
 
 ### League Summit ### 
-- The League Summit will take place every year a month before the draft. It will all take place online over the course of a weekend. The nomination channel of the discord will be muted three days before the summit begins so make sure to have your nominations in well in advance. The commisioner will put forth each nominated matter to a vote and make the necessary ammendments to the constitution.
+- The League Summit will take place every year a month before the draft. It will all take place online over the course of a weekend. Make sure to have your nominations in well in advance. The commisioner will put forth each nominated matter to a vote and make the necessary ammendments to the constitution.
 <br>
 
 ### Collusion ###
