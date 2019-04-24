@@ -20,8 +20,8 @@
    - [Championship](#championship-bracket)
    - [Consolation](#consolation-bracket)
 - [Scoring](#section-x---scoring)
-- [Misc](#misc-x---misc)
-- [Ammendments](#ammendments-x---ammendments)
+- [Misc](#section-xi---misc)
+- [Ammendments](#section-xii---ammendments)
 <br>
 <br>
 
