@@ -5,6 +5,7 @@
    - [Commissioner](#league-commissioner)
    - [Co-Commissioners](#co-commissioners)
    - [Commissioner Powers and Arbitration Process](#commissioner-site-powers)
+   - [Rule Changes](#rule---changes)
 - [League Dues](#section-ii---league-dues)
 - [Payout](#section-iii---payout)
 - [Rosters](#section-iv---rosters)
@@ -20,8 +21,11 @@
    - [Championship](#championship-bracket)
    - [Consolation](#consolation-bracket)
 - [Scoring](#section-x---scoring)
-- [Misc](#section-xi---misc)
-- [Ammendments](#section-xii---ammendments)
+- [Misc](#section-xi---leaving-the-league)
+   - [Leaving](#leaving---the---league)
+   - [Missing Teams](#missing---teams)
+- [Misc](#section-xii---misc)
+- [Ammendments](#section-xiii---ammendments)
 <br>
 <br>
 
@@ -66,21 +70,8 @@ __Jacob Alley__
 - After the first year there is a yearly total of $25.
 - Payment must be paid at minimum a month before the rookie draft. Failure to do so will result in an infraction. 
 
-### Leaving The League ###
-- In the event that you wish to leave the league, you must let us know a year in advance, no later than the time that the following year's payment is due (a month before the rookie draft). Here is an example. You join the first year and pay the 2019 and 2020 dues. You decide you want to leave the league. You must notify the commissioner that 2020 will be your last year by late March 2019 (when the 2021 payment is due). 
-- During that final year, you will not be permitted to trade any future draft picks, whether receiving or sending.
-- If you are not willing to play the final season, you forfeit the money that you have paid.
-- In drastic circumstances the commissioner may consider refunding the buy-in however these instances will be very rare and far from the expectation.
-
-### Missing Teams ###
-- The unfortunate reality is that not everyone will be able to play in this league forever. This means teams will need to be replaced. In the event that the team being replaced left on ill terms (ie they did not give fair notice), then their buy-in will be used to incentive a new owner to take over. 
-- In many instances where owners quit and leave, it is due to the fact that the team is in miserable shape. Often times, even with the financial incentive, it can be tough to find a replacement owner. In the sake of keeping together the league, the commissioner reserves the right to offer compensatory picks at the end of each round of the draft. 
-- In the event of not having 12 teams by the rookie draft, we will postpone the draft by a month, each month until the season starts.
-- If an owner is still not found, the league will vote on whether to shrink in size (down to 10) or disburse.
-- If multiple owners leave at the same time, both of their players will be merged into a player pool, and new owners will have a draft to select their teams. 
-
 ### Penalties ###
-If a team does not pay their dues by the designated date they are not eligible to participate in the draft (startup or rookie) it will be up to the commissioner's discretion on whether or not to replace them.
+If a team does not pay their dues by the designated date they are not eligible to participate in the draft (startup or rookie) it will be up to the commissioner's discretion on whether or not to grant an extension.
 
 <br><br>
 
@@ -197,7 +188,7 @@ __Any undrafted rookie will be treated as a common FA. If they are unavailable i
     </tr>
      <tr>
         <td>Rushing</td>
-        <td>Rushing Yards (RY)<br>Rushing TD (RTD)<br>2 Point Conversion (2PR)</td><br>Each Reception (REC)</td>
+        <td>Rushing Yards (RY)<br>Rushing TD (RTD)<br>2 Point Conversion (2PR)<br>Each Reception (REC)</td>
         <td>0.1<br>6<br>2<br>1</td>
       </tr>
       <tr>
@@ -212,11 +203,26 @@ __Any undrafted rookie will be treated as a common FA. If they are unavailable i
       </tr>
 </table>
 
-## __Section XI - Misc__ ##
+## __Section XI - Leaving the League__ ##
+### Leaving the League ###
+- In the event that you wish to leave the league, you must let us know a year in advance, no later than the time that the following year's payment is due (a month before the rookie draft). Here is an example. You join the first year and pay the 2019 and 2020 dues. You decide you want to leave the league. You must notify the commissioner that 2020 will be your last year by late March 2019 (when the 2021 payment is due). 
+- During that final year, you will not be permitted to trade any future draft picks, whether receiving or sending.
+- If you are not willing to play the final season, you forfeit the money that you have paid.
+- In drastic circumstances the commissioner may consider refunding the buy-in however these instances will be very rare and far from the expectation.
+
+### Missing Teams ###
+- The unfortunate reality is that not everyone will be able to play in this league forever. This means teams will need to be replaced. In the event that the team being replaced left on ill terms (ie they did not give fair notice), then their buy-in will be used to incentive a new owner to take over. 
+- In many instances where owners quit and leave, it is due to the fact that the team is in miserable shape. Often times, even with the financial incentive, it can be tough to find a replacement owner. In the sake of keeping together the league, the commissioner reserves the right to offer compensatory picks at the end of each round of the draft. 
+- In the event of not having 12 teams by the rookie draft, we will postpone the draft by a month, each month until the season starts.
+- If an owner is still not found, the league will vote on whether to shrink in size (down to 10) or disburse.
+- If multiple owners leave at the same time, both of their players will be merged into a player pool, and new owners will have a draft to select their teams. 
+
+
+## __Section XII - Misc__ ##
 - In the case that there is a discrepancy between the rules on the site and the rules stated here, please inform the commissioner immediately. If for some reason the commissioner is unavailable, the rules on the site take precedence. 
 - Smack talk is a great part of the game. However please do not be hateful or bully other members. 
 - Treat eachother with respect. 
 - That means responding to trade offers, but it also means fucking off and not sending them if the person says they aren't interested in trading. 
 
 
-## __Section XII - Ammendments__ ##
+## __Section XIII - Ammendments__ ##
