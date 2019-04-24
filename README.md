@@ -210,11 +210,6 @@ __Any undrafted rookie will be treated as a common FA. If they are unavailable i
         <td>Total Fumbles Lost</td>
         <td>-2</td>
       </tr>
-      <tr>
-        <td>Kicking</td>
-        <td>Each Extra Point Made (PAT)<br>Each Field Goal Made (0-39 Yard) (FG0)<br>Each Field Goal Made (40-49 Yard) (FG40)<br>Each Field Goal Made (50+)(FG50)<br>Field Goal Missed (FGM)</td>
-        <td>1<br>3<br>4<br>5<br>-1</td>
-      </tr>
 </table>
 
 ## __Section XI - Misc__ ##
