@@ -40,12 +40,15 @@ __Jacob Alley__
 ### Commissioner Site Powers ###
 - The commissioner has the ability to (in appropriate situations) edit lineups (either current or past), add/drop players, push/undo trades, and edit game scores. Additionally the commissioner can pause/resume the draft and set/remove draft picks for teams. 
 <br>
+
 ### Co-Commissioner Appointment ###
 - The Commissioner can nominate up to two Co-Commissioners who will then require a majority vote by the rest of the league to be appointed.
 <br>
+
 ### Dispute Arbitration ###
 - The commissioner is the final authority on all league matters, excluding disputes with a clear conflict of interest. In situations where a league vote is put forth and the outcome is a tie the commissioner will always have the tiebreaking vote. When an issue arrises where a clear conflict of interest is apparant the matter will be handled by the co-commissioners. If they disagree on what action should be taken (or there is no co-commish) the matter will be put to a league vote (the vote will exclude anyone with a conflict of interest).
 <br>
+
 ### Rule Changes ###
 #### Nomination ####
 - In order to nominate a rule change, simply propose it through the appropriate channel. If it gets endorsed (by adding an emoji showing your affirmation) by 3 more league members it will be on the docket for the end of the year summit.
