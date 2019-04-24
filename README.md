@@ -100,7 +100,7 @@ If a team does not pay their dues by the designated date they are not eligible t
    TE | 1 | No Limit
    FLEX (RB/WR/TE) | 2 | No Limit
    SuperFlex (QB/WR/RB/TE) | 1 | No Limit
-   BE | 12 | No Limi
+   BE | 11 | No Limi
    IR | 2 | No Limit
 
 ### Offseason Rosters (Post-draft Rosters) ###
