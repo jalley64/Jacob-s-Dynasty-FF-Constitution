@@ -6,6 +6,8 @@
    - [Co-Commissioners](#co-commissioners)
    - [Commissioner Powers and Arbitration Process](#commissioner-site-powers)
    - [Rule Changes](#rule-changes)
+   - [League Summit](#league-summit)
+   - [Collusion](#collusion)
 - [League Dues](#section-ii---league-dues)
 - [Payout](#section-iii---payout)
 - [Rosters](#section-iv---rosters)
@@ -55,9 +57,11 @@ __Jacob Alley__
 #### Passing A Rule ####
 - At the season end summit, we will vote on any nominated proposals. The commissioner's vote counts as 1.5 votes (essentially a tiebreaker). Majority is needed for a vote to pass.
 <br>
+
 ### League Summit ### 
 - The League Summit will take place every year a month before the draft. It will all take place online over the course of a weekend. The nomination channel of the discord will be muted three days before the summit begins so make sure to have your nominations in well in advance. The commisioner will put forth each nominated matter to a vote and make the necessary ammendments to the constitution.
 <br>
+
 ### Collusion ###
 **Collusion will not be tolerated. A trade will be vetoed if there is evident collusion and the guilty teams will be removed from the league and forfeit any dues paid. Colluders will not be given infractions, and will be immediately removed.**
 
