@@ -112,7 +112,7 @@ If a team does not pay their dues by the designated date they are not eligible t
    TE | 1 | No Limit
    FLEX (RB/WR/TE) | 2 | No Limit
    SuperFlex (QB/WR/RB/TE) | 1 | No Limit
-   BE | 16 | No Limi
+   BE | 15 | No Limi
    IR | 2 | No Limit
 
 ## __Section V - Free Agency & Trading__ ##
