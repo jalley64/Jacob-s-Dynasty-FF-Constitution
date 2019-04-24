@@ -218,7 +218,7 @@ __Any undrafted rookie will be treated as a common FA. If they are unavailable i
 - In drastic circumstances the commissioner may consider refunding the buy-in however these instances will be very rare and far from the expectation.
 
 ### Missing Teams ###
-- The unfortunate reality is that not everyone will be able to play in this league forever. This means teams will need to be replaced. In the event that the team being replaced left on ill terms (ie they did not give fair notice), then their buy-in will be used to incentive a new owner to take over. 
+- The unfortunate reality is that not everyone will be able to play in this league forever. This means teams will need to be replaced. In the event that the team being replaced left on ill terms (ie they did not give fair notice), then their buy-in will be used to incentivize a new owner to take over. 
 - In many instances where owners quit and leave, it is due to the fact that the team is in miserable shape. Often times, even with the financial incentive, it can be tough to find a replacement owner. In the sake of keeping together the league, the commissioner reserves the right to offer compensatory picks at the end of each round of the draft. 
 - In the event of not having 12 teams by the rookie draft, we will postpone the draft by a month, each month until the season starts.
 - If an owner is still not found, the league will vote on whether to shrink in size (down to 10) or disburse.
