@@ -23,7 +23,7 @@
    - [Championship](#championship-bracket)
    - [Consolation](#consolation-bracket)
 - [Scoring](#section-x---scoring)
-- [Misc](#section-xi---leaving-the-league)
+- [Leaving the League](#section-xi---leaving-the-league)
    - [Leaving](#leaving-the-league)
    - [Missing Teams](#missing-teams)
 - [Misc](#section-xii---misc)
