@@ -114,7 +114,7 @@ If a team does not pay their dues by the designated date they are not eligible t
    SuperFlex (QB/WR/RB/TE) | 1 | No Limit
    BE | 16 | No Limi
    IR | 2 | No Limit
-<br><br>
+
 ## __Section V - Free Agency & Trading__ ##
 
 ### Free Agency ###
